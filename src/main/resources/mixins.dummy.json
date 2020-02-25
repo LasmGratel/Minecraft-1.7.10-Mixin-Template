@@ -1,0 +1,10 @@
+{
+  // After edited, delete these comments.
+  "package": "com.examplemod", // Change here
+  "refmap": "mixins.dummy.refmap.json", // Change here
+  "mixins": [ // Add your mixins
+    "MixinA",
+	"MixinB"
+  ],
+  "compatibilityLevel": "JAVA_8"
+}
